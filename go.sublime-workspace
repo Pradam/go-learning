@@ -139,15 +139,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "july_16.go",
-			"settings":
-			{
-				"buffer_size": 123,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -210,10 +201,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/pradam/Desktop/go/src/hello"
+		"/home/pradam/Desktop/go/src/hello/go-learning"
 	],
 	"file_history":
 	[
+		"/home/pradam/Desktop/go/src/hello/go-learning/slice.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/array.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/structs2.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/structs.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/pointers.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/july_16.go",
 		"/home/pradam/Desktop/go/src/hello/get_input.go",
 		"/home/pradam/Desktop/go/src/hello/hours.go",
 		"/home/pradam/Desktop/go/src/hello/defer.go",
@@ -286,38 +283,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "july_16.go",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 123,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123,
-								123
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
