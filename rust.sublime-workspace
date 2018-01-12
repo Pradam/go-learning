@@ -139,6 +139,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/administrator/.bashrc",
+			"settings":
+			{
+				"buffer_size": 4018,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -205,6 +214,13 @@
 	],
 	"file_history":
 	[
+		"/home/administrator/github-pull.sh",
+		"/home/administrator/github.sh",
+		"/home/administrator/golang.sh",
+		"/home/administrator/rus.sh",
+		"/home/administrator/robot.sh",
+		"/home/administrator/Desktop/rust-learning/test.rs",
+		"/home/administrator/.bashrc",
 		"/home/pradam/Desktop/go/src/hello/go-learning/slice.go",
 		"/home/pradam/Desktop/go/src/hello/go-learning/array.go",
 		"/home/pradam/Desktop/go/src/hello/go-learning/structs2.go",
@@ -277,8 +293,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/administrator/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3052,
+								3052
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/ShellScriptImproved/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
