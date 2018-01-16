@@ -35,4 +35,10 @@ func main(){
     }
      fmt.Println(len(list), list)
 
+    boil := true
+
+    for ;boil; {
+        fmt.Println("Hello world")
+        boil = false
+    }
 }
