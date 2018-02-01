@@ -11,17 +11,20 @@ func (a *Vertex) Abs() float64{
 }
 
 
-func (array []int) Getsum() []int{
+type MyArray []int
+
+func (array MyArray) Getsum() []int{
+    new_array := []int{} 
     for i:=0;i<len(array);i++{
-        array = append(array, array[i]*2)
+        new_array = append(new_array, array[i]*2)
     }
-    return array
+    return new_array
 }
 
 func main(){
     v := &Vertex{3,4}
     fmt.Println(v.Abs())
-    array := make([]int,5)
-    fmt.Println(array.Getsum())
+    var array  =  []int{1,2,3,4,5,6,7,8,9}
+    fmt.Println(MyArray.Getsum(array))
 
 }
